@@ -98,7 +98,12 @@ ul {
     max-width: 1200px;
 }
 
-
+figure {
+    display: flex;
+   
+    flex-direction: column;
+}
+   
 
 .intro,
 .repos {
